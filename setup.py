@@ -31,7 +31,7 @@ if __name__ == "__main__":
         long_description = open('README.md').read()
     
     setuptools.setup(
-        name="cron_descriptor",
+        name="cron_descriptor_ko",
         version="1.2.24",
         description="A Python library that converts cron expressions "
                     "into human readable strings.",
